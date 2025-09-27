@@ -1,6 +1,6 @@
 # ✨ Hi, I’m Victoria  
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 
 🌍 From Spain · Based in Paris  
 📚 Political science & public policy enthusiast  
