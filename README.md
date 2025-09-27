@@ -18,17 +18,17 @@
 
 ## 🛠 Skills  
 
-**Programming & Data**  
-- 🐍 Python (pandas, NumPy, scikit-learn)  
-- 📊 R (tidyverse, ggplot2, tidymodels)  
-- 💾 SQL (PostgreSQL)  
-- 📈 Stata  
+*Programming & Data**  
+- 🐍 **Python** — pandas, scikit-learn  
+- 📊 **R** — tidyverse, ggplot2, tidymodels  
+- 🗄 **SQL** — PostgreSQL  
+- 📈 **Stata**  
 
 **Other Tools**  
-- 📑 LaTeX  
-- 📊 Power BI  
-- 🗂 Git & GitHub  
-
+- 📄 **LaTeX**  
+- 📊 **Power BI**  
+- 🧭 **Git & GitHub**
+  
 **Languages**  
 - 🇪🇸 Spanish (Native)  
 - 🇬🇧 English (C2)  
