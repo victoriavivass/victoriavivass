@@ -37,7 +37,7 @@ I’m excited to apply these skills to real-world policymaking projects — new 
 I publish work (mainly) in R & Python:  
 - Cleaning messy survey data 🧹  
 - Estimating predictive models 📈  
-- Creating visualizations that (hopefully) tell stories 🎨  
+- Creating visualisations that (hopefully) tell stories 🎨  
 
 📌 Featured project: [Economic Voting Analysis](https://github.com/victoriavivass/EconomicVoting_Analysis)  
 
