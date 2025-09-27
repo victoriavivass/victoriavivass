@@ -19,8 +19,8 @@
 ## 🛠 Skills  
 
 *Programming & Data**  
-- 🐍 **Python** — pandas, scikit-learn  
-- 📊 **R** — tidyverse, ggplot2, tidymodels  
+- 🐍 **Python** 
+- 📊 **R** 
 - 🗄 **SQL** — PostgreSQL  
 - 📈 **Stata**  
 
