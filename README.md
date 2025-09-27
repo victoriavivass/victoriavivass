@@ -7,7 +7,9 @@
 </div>
 
 🌍 From Spain · Based in Paris  
+
 📚 Political Science & Data Science
+
 📊 Improving policymaking by applying data science tools. 
 
 ## 🌱 About me  
