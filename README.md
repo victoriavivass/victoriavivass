@@ -1,64 +1,56 @@
-# ✨ Hi, I'm Victoria  
+# ✨ Hi, I’m Victoria  
 
-🌍 From Spain · currently based in Paris  
+🌍 From Spain · Based in Paris  
 📚 Political science & public policy enthusiast  
-📊 Learning to use **data** to understand societies and improve decision-making  
+📊 Exploring society through data, models & storytelling  
 
 ---
 
 ## 🌱 About me  
 
-- 🎓 Studied Political Science in Madrid (UC3M)  
-- 📖 Now pursuing a Master's in **Data & Economics for Public Policy** at École Polytechnique  
-- 💡 Curious about how people think, vote, and react to economic change  
-- 📝 I enjoy combining **data analysis, visualization, and storytelling**  
-- ✨ I care about research that is rigorous, but also useful for people  
+I love connecting **questions in politics** with **data and methods** to better understand how people think, vote, and respond economically.  
+Currently studying a Master's in **Data & Economics for Public Policy** at École Polytechnique.  
 
 ---
 
-## 🛠 Skills  
+## 🛠 My Skills  
 
-*Programming & Data**  
-- 🐍 **Python** 
-- 📊 **R** 
-- 🗄 **SQL** — PostgreSQL  
-- 📈 **Stata**  
+**Programming & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Stata](https://img.shields.io/badge/Stata-1E90FF?style=for-the-badge&logo=stata&logoColor=white)  
 
 **Other Tools**  
-- 📄 **LaTeX**  
-- 📊 **Power BI**  
-- 🧭 **Git & GitHub**
-  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
 **Languages**  
-- 🇪🇸 Spanish (Native)  
-- 🇬🇧 English (C2)  
-- 🇫🇷 French (B2)  
+![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)  
+![English](https://img.shields.io/badge/English-C2-blue?style=for-the-badge)  
+![French](https://img.shields.io/badge/French-B2-lightgrey?style=for-the-badge)  
 
 ---
 
 ## 📂 On this GitHub  
 
-Here I share some of my explorations in **R** and **Python**:  
+I publish work in R & Python:  
 - Cleaning messy survey data 🧹  
-- Building models that try to explain political behaviour 📈  
-- Creating visualizations that (hopefully) make things clearer 🎨  
+- Estimating models of political behaviour 📈  
+- Creating visualizations that (hopefully) tell stories 🎨  
 
 📌 Featured project: [Economic Voting Analysis](https://github.com/victoriavivass/EconomicVoting_Analysis)  
 
 ---
 
-## 💌 A bit more  
-
-- ☕ I love cafés, books, and long conversations about politics and life  
-- 🌿 Always trying to learn something new — in code, in policy, or in the world  
-
----
-
-### 📬 Let's connect  
+## 💌 Let’s connect  
 
 - ✉️ [victoria.vivas.gutierrez@gmail.com](mailto:victoria.vivas.gutierrez@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-victoria-vivas-guti%C3%A9rrez-a5aa95252/)  
 
 ---
 
-✨ Thanks for visiting my profile — I hope you find something here that inspires you too!
+✨ Thanks for visiting my profile — I hope you find something here meaningful!
+
