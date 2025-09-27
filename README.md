@@ -5,9 +5,7 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 
 🌍 From Spain · Based in Paris  
-
 📚 Political Science & Data Science
-
 📊 Improving policymaking by applying data science tools. 
 
 </div>
@@ -24,6 +22,8 @@ I’m excited to apply these skills to real-world policymaking projects — new 
 
 ## 🛠 My Skills  
 
+<div align="center">
+  
 **Programming & Data**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Stata](https://img.shields.io/badge/Stata-1E90FF?style=for-the-badge&logo=stata&logoColor=white)  
 
@@ -32,6 +32,8 @@ I’m excited to apply these skills to real-world policymaking projects — new 
 
 **Languages**  
 ![Spanish](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge) ![English](https://img.shields.io/badge/English-C2-blue?style=for-the-badge) ![French](https://img.shields.io/badge/French-B2-lightgrey?style=for-the-badge)  
+
+</div>
 
 ---
 
