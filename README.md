@@ -8,7 +8,6 @@
 📚 Political Science & Data Science  
 📊 Improving policymaking by applying data science tools  
 
-</div>
 
 
 ## 🌱 About me  
@@ -56,3 +55,5 @@ I publish work (mainly) in R & Python:
 ---
 
 ✨ Thanks for visiting my profile — I hope you find something here meaningful!
+
+</div>
