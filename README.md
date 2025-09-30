@@ -4,10 +4,8 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 
-🌍 **From Spain · Based in Paris**
-
-📚 **Political Science & Data Science**
-
+🌍 **From Spain · Based in Paris** 
+📚 **Political Science & Data Science** 
 📊 **Improving policymaking by applying data science tools** 
 
 
