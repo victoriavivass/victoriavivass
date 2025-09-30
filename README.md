@@ -5,7 +5,9 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 
 🌍 **From Spain · Based in Paris**
+
 📚 **Political Science & Data Science**
+
 📊 **Improving policymaking by applying data science tools** 
 
 
@@ -21,8 +23,7 @@ I’m excited to apply these skills to real-world policymaking projects — new 
 
 ## 🛠 My Skills  
 
-<div align="center">
-  
+
 **Programming & Data**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Stata](https://img.shields.io/badge/Stata-1E90FF?style=for-the-badge&logo=stata&logoColor=white)  
 
@@ -35,25 +36,30 @@ I’m excited to apply these skills to real-world policymaking projects — new 
 </div>
 
 ---
-
+<div align="center">
+  
 ## 📂 On this GitHub  
 
+</div>
+
 I publish work (mainly) in R & Python:  
-Cleaning messy survey data 🧹  
-Estimating predictive models 📈  
-Creating visualisations that (hopefully) tell stories 🎨  
+- Cleaning messy survey data 🧹  
+- Estimating predictive models 📈  
+- Creating visualisations that (hopefully) tell stories 🎨  
 
 📌 Featured project: [Economic Voting Analysis](https://github.com/victoriavivass/EconomicVoting_Analysis)  
 
 ---
+<div align="center">
 
 ## 💌 Let’s connect  
 
-✉️ [victoria.vivas.gutierrez@gmail.com](mailto:victoria.vivas.gutierrez@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-victoria-vivas-guti%C3%A9rrez-a5aa95252/)  
+</div>
+
+- ✉️ [victoria.vivas.gutierrez@gmail.com](mailto:victoria.vivas.gutierrez@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-victoria-vivas-guti%C3%A9rrez-a5aa95252/)  
 
 ---
 
 ✨ Thanks for visiting my profile — I hope you find something here meaningful!
 
-</div>
