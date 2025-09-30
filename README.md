@@ -39,9 +39,9 @@ I’m excited to apply these skills to real-world policymaking projects — new 
 ## 📂 On this GitHub  
 
 I publish work (mainly) in R & Python:  
-- Cleaning messy survey data 🧹  
-- Estimating predictive models 📈  
-- Creating visualisations that (hopefully) tell stories 🎨  
+Cleaning messy survey data 🧹  
+Estimating predictive models 📈  
+Creating visualisations that (hopefully) tell stories 🎨  
 
 📌 Featured project: [Economic Voting Analysis](https://github.com/victoriavivass/EconomicVoting_Analysis)  
 
@@ -49,8 +49,8 @@ I publish work (mainly) in R & Python:
 
 ## 💌 Let’s connect  
 
-- ✉️ [victoria.vivas.gutierrez@gmail.com](mailto:victoria.vivas.gutierrez@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-victoria-vivas-guti%C3%A9rrez-a5aa95252/)  
+✉️ [victoria.vivas.gutierrez@gmail.com](mailto:victoria.vivas.gutierrez@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-victoria-vivas-guti%C3%A9rrez-a5aa95252/)  
 
 ---
 
