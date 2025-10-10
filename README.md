@@ -15,7 +15,7 @@
 
 I studied Political Science and later discovered how much I enjoy working with data.  
 What began as a minor in Data Science soon became a way of exploring the social and policy questions that fascinate me.  
-I’m now doing a Master’s in Data and Economics for Public Policy at École Polytechnique, where I also work as a Research Assistant in the Computational Social Sciences team, focusing on NLP.  
+I’m now doing a Master’s in Data and Economics for Public Policy at École Polytechnique, where I also work as a Research Assistant in the Computational Social Sciences team, focusing on LLMs for text classification.  
 I’m excited to apply these skills to real-world policymaking projects — new initiatives are coming soon!
 
 ---
