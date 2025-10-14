@@ -42,9 +42,9 @@ I’m excited to apply these skills to real-world policymaking projects — new 
 </div>
 
 I publish work (mainly) in R & Python:  
-- Cleaning messy survey data 🧹  
-- Estimating predictive models 📈  
-- Creating visualisations that (hopefully) tell stories 🎨  
+- Cleaning messy survey data.
+- Estimating predictive models.  
+- Creating visualisations that (hopefully) tell stories.
 
 📌 Featured projects: [Titanic](https://github.com/victoriavivass/Titanic/tree/main) , [Economic Voting Analysis](https://github.com/victoriavivass/EconomicVoting_Analysis)  
 
@@ -64,3 +64,19 @@ I publish work (mainly) in R & Python:
 ✨ Thanks for visiting my profile — I hope you find something here meaningful!
 
 </div>
+
+---
+
+<div align="center">
+
+*Below, a little Pac-Man game eating my contributions (I should probably make more to keep him busy!)*
+
+<img
+  alt="Pac-Man contribution graph"
+  src="https://raw.githubusercontent.com/victoriavivass/victoriavivass/output/pacman-contribution-graph.svg"
+  width="700"
+/>
+
+</div>
+
+
