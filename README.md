@@ -7,7 +7,6 @@
 **From Spain · Based in Paris**  
 **(Trying) to apply data science tools for improving policymaking**  
 
----
 ## 🌱 About me  
 
 I studied Political Science and later discovered how much I enjoy working with data.  
@@ -15,7 +14,6 @@ What began as a minor in Data Science soon became a way of exploring and evaluat
 I’m now doing a Master’s in Data and Economics for Public Policy at École Polytechnique, where I also work as a Research Assistant in the Computational Social Sciences team, focusing on LLMs for text classification.  
 I’m excited to apply these skills to real-world projects — new initiatives are coming soon!
 
----
   
 ## 🛠 My Skills  
 
@@ -30,7 +28,6 @@ I’m excited to apply these skills to real-world projects — new initiatives a
 
 </div>
 
----
 <div align="center">
   
 ## 📂 On this GitHub  
@@ -44,7 +41,6 @@ I publish work (mainly) in R & Python:
 
 Featured projects: [Titanic](https://github.com/victoriavivass/Titanic/tree/main) , [Economic Voting Analysis](https://github.com/victoriavivass/EconomicVoting_Analysis)  
 
----
 <div align="center">
 
 ## 💌 Let’s connect  
@@ -54,7 +50,6 @@ Featured projects: [Titanic](https://github.com/victoriavivass/Titanic/tree/main
 - [victoria.vivas.gutierrez@gmail.com](mailto:victoria.vivas.gutierrez@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-victoria-vivas-guti%C3%A9rrez-a5aa95252/)  
 
----
 <div align="center">
   
 Thanks for visiting my profile — I hope you find something here meaningful!
