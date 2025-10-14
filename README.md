@@ -11,7 +11,7 @@
 
 ## 🌱 About me  
 
-</div>
+
 
 I studied Political Science and later discovered how much I enjoy working with data.  
 What began as a minor in Data Science soon became a way of exploring policy questions that fascinate me.  
@@ -19,7 +19,7 @@ I’m now doing a Master’s in Data and Economics for Public Policy at École P
 I’m excited to apply these skills to real-world policymaking projects — new initiatives are coming soon!
 
 ---
-<div align="center">
+
   
 ## 🛠 My Skills  
 
@@ -59,6 +59,8 @@ I publish work (mainly) in R & Python:
 - [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-victoria-vivas-guti%C3%A9rrez-a5aa95252/)  
 
 ---
-
+<div align="center">
+  
 ✨ Thanks for visiting my profile — I hope you find something here meaningful!
 
+</div>
