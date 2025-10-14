@@ -4,22 +4,18 @@
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 
-🌍 **From Spain · Based in Paris**  
-📚 **Data Science**  
-📊 **Improving policymaking by applying data science tools**  
-
-
-## 🌱 About me  
-
-
-
-I studied Political Science and later discovered how much I enjoy working with data.  
-What began as a minor in Data Science soon became a way of exploring policy questions that fascinate me.  
-I’m now doing a Master’s in Data and Economics for Public Policy at École Polytechnique, where I also work as a Research Assistant in the Computational Social Sciences team, focusing on LLMs for text classification.  
-I’m excited to apply these skills to real-world policymaking projects — new initiatives are coming soon!
+**From Spain · Based in Paris**  
+**(Trying) to apply data science tools for improving policymaking**  
 
 ---
+## 🌱 About me  
 
+I studied Political Science and later discovered how much I enjoy working with data.  
+What began as a minor in Data Science soon became a way of exploring and evaluating policy questions that fascinate me.  
+I’m now doing a Master’s in Data and Economics for Public Policy at École Polytechnique, where I also work as a Research Assistant in the Computational Social Sciences team, focusing on LLMs for text classification.  
+I’m excited to apply these skills to real-world projects — new initiatives are coming soon!
+
+---
   
 ## 🛠 My Skills  
 
@@ -46,7 +42,7 @@ I publish work (mainly) in R & Python:
 - Estimating predictive models.  
 - Creating visualisations that (hopefully) tell stories.
 
-📌 Featured projects: [Titanic](https://github.com/victoriavivass/Titanic/tree/main) , [Economic Voting Analysis](https://github.com/victoriavivass/EconomicVoting_Analysis)  
+Featured projects: [Titanic](https://github.com/victoriavivass/Titanic/tree/main) , [Economic Voting Analysis](https://github.com/victoriavivass/EconomicVoting_Analysis)  
 
 ---
 <div align="center">
@@ -61,19 +57,13 @@ I publish work (mainly) in R & Python:
 ---
 <div align="center">
   
-✨ Thanks for visiting my profile — I hope you find something here meaningful!
-
-</div>
-
----
-
-<div align="center">
+Thanks for visiting my profile — I hope you find something here meaningful!
 
 *Below, a little Pac-Man game eating my contributions (I should probably make more to keep him busy!)*
 
 <img
   alt="Pac-Man contribution graph"
-  src="https://raw.githubusercontent.com/victoriavivass/victoriavivass/output/pacman-contribution-graph.svg"
+  src="https://raw.githubusercontent.com/victoriavivass/victoriavivass/output/pacman-contribution-graph-dark.svg"
   width="700"
 />
 
