@@ -55,8 +55,8 @@ I publish work (mainly) in R & Python:
 
 </div>
 
-- ✉️ [victoria.vivas.gutierrez@gmail.com](mailto:victoria.vivas.gutierrez@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-victoria-vivas-guti%C3%A9rrez-a5aa95252/)  
+- [victoria.vivas.gutierrez@gmail.com](mailto:victoria.vivas.gutierrez@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-victoria-vivas-guti%C3%A9rrez-a5aa95252/)  
 
 ---
 
