@@ -39,7 +39,7 @@ I publish work (mainly) in R & Python:
 - Estimating predictive models.  
 - Creating visualisations that (hopefully) tell stories.
 
-Featured projects: [Titanic](https://github.com/victoriavivass/Titanic/tree/main) , [Economic Voting Analysis](https://github.com/victoriavivass/EconomicVoting_Analysis)  
+Featured projects: [Economic Voting Bachelor Thesis](https://github.com/victoriavivass/EconomicVoting_Analysis)  
 
 <div align="center">
 
