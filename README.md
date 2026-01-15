@@ -34,7 +34,7 @@ I’m excited to apply these skills to real-world projects — new initiatives a
 
 </div>
 
-I publish work (mainly) in R & Python:  
+I publish work (mainly) in Python & R:  
 - Cleaning messy survey data.
 - Estimating predictive models.  
 - Creating visualisations that (hopefully) tell stories.
