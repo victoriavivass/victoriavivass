@@ -2,8 +2,6 @@
 
 # 🎀 Hi, I'm María Victoria Vivas 🎀
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=E75480&center=true&vCenter=true&width=520&lines=Data+Scientist+%40+ESMA+%F0%9F%92%97;NLP+%E2%80%A2+Applied+AI+%E2%80%A2+Econometrics+%E2%9C%A8;Based+in+Paris+%F0%9F%A5%90)
-
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="170" alt="Cat typing on a laptop" />
 
 </div>
