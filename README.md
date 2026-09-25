@@ -11,7 +11,7 @@
 
 I studied Political Science and later discovered how much I enjoy working with data.  
 What began as a minor in Data Science soon became a way of contributing to policy questions that fascinate me.  
-I’m now doing a Master’s in Data and Economics for Public Policy at École Polytechnique, where I also work as a Research Assistant in the Computational Social Sciences team, focusing on BERT models for text classification.  
+I’m now doing a Master’s in Data and Economics for Public Policy at École Polytechnique.
 I’m excited to apply these skills to real-world projects — new initiatives are coming soon!
 
   
