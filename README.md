@@ -1,14 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,100:D7A8FF&height=150&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFC1E3,100:D7A8FF&height=120&section=header)
 
 # 🎀 Hi, I'm María Victoria Vivas 🎀
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=E75480&center=true&vCenter=true&width=520&lines=Data+Scientist+%40+ESMA+%F0%9F%92%97;NLP+%E2%80%A2+Applied+AI+%E2%80%A2+Econometrics+%E2%9C%A8;Based+in+Paris+%F0%9F%A5%90)
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="170" alt="Cat typing on a laptop" />
-
-[![Email](https://img.shields.io/badge/Email-E75480?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victoria.vivas.gutierrez@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-B565A7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-victoria-vivas-guti%C3%A9rrez-a5aa95252/)
 
 </div>
 
@@ -52,6 +50,6 @@ Thanks for visiting my profile — I hope you find something here meaningful! �
 
 <img src="https://raw.githubusercontent.com/victoriavivass/victoriavivass/output/pacman-contribution-graph-dark.svg" width="700" alt="Pac-Man contribution graph" />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:D7A8FF,100:FFC1E3&height=110&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:D7A8FF,100:FFC1E3&height=90&section=footer)
 
 </div>
