@@ -22,12 +22,6 @@ My work focuses on applying machine learning, NLP and econometric methods to pub
 - 📍 Paris, France
 - 🔬 Interests: NLP, Applied AI, Econometrics, Regulatory Data and Innovation Policy
 
-## 🦋 What I Work On
-
-| 🧠 Machine Learning | 💬 NLP | ✨ LLMs & RAG | 📈 Econometrics |
-|:---:|:---:|:---:|:---:|
-| predictive models for policy & research data | text analysis of regulatory documents | language models grounded in real data | causal inference & impact evaluation |
-
 ## 💗 Tech Stack
 
 **💻 Programming & Data**
