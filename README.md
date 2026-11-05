@@ -14,7 +14,7 @@ My work focuses on applying machine learning, NLP and econometric methods to pub
 
 - 🎓 Master's in Data and Economics for Public Policy, **École Polytechnique**
 - 📍 Paris, France
-- 🔬 Interests: NLP, Applied AI, Econometrics, Regulatory Data and Innovation Policy
+- 🔬 Interests: NLP, Applied AI, Econometrics, Innovation Policy
 
 ## 💗 Tech Stack
 
