@@ -8,7 +8,7 @@
 
 ## 🌷 About Me
 
-I'm a Data Scientist currently working at **ESMA** (European Securities and Markets Authority), with previous experience at the **OECD** and **CREST/CNRS**.
+I'm a Data Scientist currently focusing on my studies, with previous experience at the **ESMA**, **OECD**, **CREST/CNRS**, and **IPP-CSIC**.
 
 My work focuses on applying machine learning, NLP and econometric methods to public policy, regulatory and research datasets. 💫
 
